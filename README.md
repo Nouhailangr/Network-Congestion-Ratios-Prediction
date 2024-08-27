@@ -60,8 +60,16 @@ The model was trained using the processed dataset:
 The trained BiLSTM model was deployed through a web-based interface using Flask. The deployment process included:
 
 - Flask GUI: A user-friendly web application was developed to allow users to input data and receive congestion predictions.
+
+  <img width="401" alt="image" src="https://github.com/user-attachments/assets/572bd5bc-2f02-40b0-88ec-3ddf07cd9f45">
+
 - Dockerization: The entire application, including the model and Flask app, was containerized using Docker for easy deployment across different environments.
+
+  <img width="432" alt="image" src="https://github.com/user-attachments/assets/e749fd66-4590-43c9-a488-fa5c462f3e2b">
+
 - Deployment: The Docker image was pushed to Docker Hub for accessibility and ease of deployment.
+  
+  <img width="441" alt="image" src="https://github.com/user-attachments/assets/b915d482-0d80-4d5e-99a2-70906b063164">
 
 ## Installation
 
@@ -87,4 +95,10 @@ After setting up the application, you can:
 - Input city and date range: Use the web interface to select a Moroccan city and the forecast period (e.g., next 7 days).
 - View predictions: The application will display predicted congestion ratios along with historical data for comparison.
 - Analyze trends: Use the visualizations provided to analyze trends and make informed decisions.
+
+  <img width="405" alt="image" src="https://github.com/user-attachments/assets/3b258298-7e9c-43a1-b3b0-48552c06795e">
+
+### Example Output 
+  
+  <img width="404" alt="image" src="https://github.com/user-attachments/assets/8d1a24f5-8541-43a9-825c-b03c5ac8b7da">
 
