@@ -17,7 +17,6 @@ This repository contains the code and resources for predicting network congestio
 
 This project aims to predict network congestion ratios for Moroccan cities by analyzing historical data on network usage, traffic patterns, and environmental factors. The predictions are intended to help telecom operators make data-driven decisions to enhance network performance and resource allocation.
 
-![Uploading Untitled Diagram.drawio.png…]()
 
 ## Data Collection
 
@@ -81,4 +80,12 @@ Run the Flask application:<br>
 python app.py<br>
 or, using Docker:<br>
 docker-compose up
+
+## Usage
+
+After setting up the application, you can:
+
+- Input city and date range: Use the web interface to select a Moroccan city and the forecast period (e.g., next 7 days).
+- View predictions: The application will display predicted congestion ratios along with historical data for comparison.
+- Analyze trends: Use the visualizations provided to analyze trends and make informed decisions.
 
