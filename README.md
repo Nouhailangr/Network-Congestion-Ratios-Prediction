@@ -68,19 +68,16 @@ The trained BiLSTM model was deployed through a web-based interface using Flask.
 To run this project locally, follow these steps:
 
 - Clone the repository:
-git clone [[https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction.git](https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction/edit/master/)](https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction)<br>
+git clone https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction/tree/master <br>
 cd Network-Congestion-Ratios-Prediction
 
-- Install dependencies:<br>
-pip install -r requirements.txt<br>
-
 - Set up Docker (if you wish to use the Dockerized version):<br>
-Install Docker.<br>
-Pull the Docker image from Docker Hub:<br>
+1. Install Docker.<br>
+2. Pull the Docker image from Docker Hub:<br>
 docker pull nouhailangr/congestion-prediction.1.0<br>
-Run the Flask application:<br>
+3. Run the Flask application:<br>
 python app.py<br>
-or, using Docker:<br>
+4. or, using Docker:<br>
 docker-compose up
 
 ## Usage
