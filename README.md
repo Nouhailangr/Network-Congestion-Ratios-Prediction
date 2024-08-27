@@ -96,9 +96,5 @@ After setting up the application, you can:
 - View predictions: The application will display predicted congestion ratios along with historical data for comparison.
 - Analyze trends: Use the visualizations provided to analyze trends and make informed decisions.
 
-  <img width="405" alt="image" src="https://github.com/user-attachments/assets/3b258298-7e9c-43a1-b3b0-48552c06795e">
-
-### Example Output 
-  
   <img width="404" alt="image" src="https://github.com/user-attachments/assets/8d1a24f5-8541-43a9-825c-b03c5ac8b7da">
 
