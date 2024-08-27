@@ -15,6 +15,8 @@ This repository contains the code and resources for predicting network congestio
 
 ## Project Overview
 
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/9d8b4939-a141-42b9-a1ba-803c95b87468) 
+
 This project aims to predict network congestion ratios for Moroccan cities by analyzing historical data on network usage, traffic patterns, and environmental factors. The predictions are intended to help telecom operators make data-driven decisions to enhance network performance and resource allocation.
 
 
