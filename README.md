@@ -66,7 +66,7 @@ The trained BiLSTM model was deployed through a web-based interface using Flask.
 To run this project locally, follow these steps:
 
 - Clone the repository:
-git clone [https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction.git](https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction/edit/master/)<br>
+git clone [[https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction.git](https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction/edit/master/)](https://github.com/Nouhailangr/Network-Congestion-Ratios-Prediction)<br>
 cd Network-Congestion-Ratios-Prediction
 
 - Install dependencies:<br>
